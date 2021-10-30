@@ -35,7 +35,7 @@ A python app to plot bio-signals and visualize spectrogram.
 							
 
                     
-  #Developed by:
+  # Developed by:
   - [@Ahmed Gamal](https://github.com/Ahmed-gamal-elmahdy)
   - [@Ahmed Osama](https://github.com/ahmedosamaismail)
   - [@Mostafa Ibraheem basheer](https://github.com/Mostafa-Ibraheem-basheer)
